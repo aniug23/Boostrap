@@ -20,8 +20,8 @@ body {
 .row {
     border:1px solid black;
     margin-bottom: 1rem;
-    heigth: 100px;
-
+    height: 100px;
+    }
 
 .row > div {
     border: 1px solid black;
