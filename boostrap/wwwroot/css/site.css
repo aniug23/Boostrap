@@ -17,7 +17,13 @@ body {
   margin-bottom: 60px;
 }
 
+.row {
+    border:1px solid black;
+    margin-bottom: 1rem;
+    heigth: 100px;
+
 
 .row > div {
     border: 1px solid black;
+    
 }
